@@ -73,5 +73,5 @@ Lowest mark:  92.00 ( Alice )
 - Include percentage-to-grade mapping customization.
 
   #
-  By -Syed Masood Ali
+  -By Syed Masood Ali
 
